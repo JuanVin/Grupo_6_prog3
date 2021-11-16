@@ -33,19 +33,25 @@ No posee carpeta de design
 Home: 
 
 *Falta claridad 
+
 *La barra de categorias debería estar debajo de la navbar
+
 *No se entiende bien la funcionalidad de los menu de cada categoria
+
 *El campo “filtrar por” no indica si se filtra por palabra, por atributo o cual es el criterio de búsqueda. Si este campo filtrar por palabra la barra de búsqueda en la zona superior no tiene sentido
+
 *En el footer la sección suscribite no es claro como debe ser completada (email es una etiqueta? un campo?)
 
 Detalle Producto:
 
 *No respeta el diseño de navbar y footer en todas las páginas
+
 *Introducir código hace referencia al zipcode o a un código de descuento? Falta claridad o una etiqueta que lo indique
 
 Carrito:
 
 *En la sección de resumen de pedido se podría agregar el botón de Realizar pedido
+
 Login:
 
 *No se entiende si funciona como pestana o como página independiente
@@ -55,9 +61,11 @@ Login:
 *Si solo se quiere realizar el acceso de un usuario ya registrado se podría utilizar únicamente la pestaña y esta dirige a el formulario de registro para nuevos usuarios
 
 Registro:
+
 *Falta campo para pedir nombre de usuario (independiente al nombre y apellido real)
 
 Pestana Carrito:
+
 *Se podría cambiar el botón iniciar compra por realizar / confirmar compra
 
 
