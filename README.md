@@ -9,6 +9,7 @@ Grupo 6
 -Soliz
 -Bustos
 
+Repositorio a analizar: 
 https://github.com/CamilaPecho/Grupo_7_Vicath
 
 1- Título del proyecto
@@ -46,8 +47,11 @@ Carrito:
 
 *En la sección de resumen de pedido se podría agregar el botón de Realizar pedido
 Login:
+
 *No se entiende si funciona como pestana o como página independiente
+
 *La página login no tiene botón para crear nuevo usuario sin usar cuentas de google o facebook. No envía al formulario de registro
+
 *Si solo se quiere realizar el acceso de un usuario ya registrado se podría utilizar únicamente la pestaña y esta dirige a el formulario de registro para nuevos usuarios
 
 Registro:
@@ -58,7 +62,7 @@ Pestana Carrito:
 
 
 
-
+Repositorio a analizar: 
 https://github.com/agustinxo/grupo_8_imaginacionzero
 
 1- Título del proyecto
@@ -90,6 +94,7 @@ Detalle Producto:
 Carrito:
 
 *No se entiende como funciona la parte de favoritos
+
 *Errores de ortografía
 
 Login:
