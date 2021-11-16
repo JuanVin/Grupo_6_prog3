@@ -9,7 +9,8 @@ Grupo 6
 -Soliz
 -Bustos
 
-Repositorio a analizar: 
+---> Repositorio a analizar: 
+
 https://github.com/CamilaPecho/Grupo_7_Vicath
 
 1- Título del proyecto
@@ -70,7 +71,7 @@ Pestana Carrito:
 
 
 
-Repositorio a analizar: 
+---> Repositorio a analizar: 
 https://github.com/agustinxo/grupo_8_imaginacionzero
 
 1- Título del proyecto
